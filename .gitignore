@@ -30,3 +30,8 @@ models/
 
 # Large model weights (downloaded at runtime)
 # demucs models cached in ~/.cache/demucs or %LOCALAPPDATA%
+
+# Build artifacts
+dist/
+build/
+*.spec
